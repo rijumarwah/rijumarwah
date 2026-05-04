@@ -16,7 +16,7 @@ Previously a GenAI intern at **Ernst & Young**, where I built multi-agent system
 |---|---|
 | [Procurement Agent System](https://github.com/rijumarwah/Procurement-Agent-System) | Multi-agent AutoGen system automating accounts-payable workflows — invoice processing, 3-way matching, payment release, and exception handling. Built at EY. |
 | [Intelligent Workflow Orchestration](https://github.com/rijumarwah/Intelligent-Workflow-Orchestration) | Agentic low-code workflow engine exploring LLM-backed orchestration as the layer behind drag-and-drop automation platforms. |
-| [llmfatigue](https://github.com/rijumarwah/llmfatigue) | Research project studying LLM performance degradation under fatigue-inducing conditions. Ongoing work at UofSC. |
+| [Cognitive Fatigue in LLMs](https://github.com/rijumarwah/cognitive-fatigue-llms), [LLM Fatigue Project Homepage](https://github.com/rijumarwah/llmfatigue) | Research project studying LLM performance degradation under fatigue-inducing conditions. Ongoing work at UofSC. |
 | [Dynamic Cycling Navigation](https://github.com/rijumarwah/dynamic-cycling-nav) | Adaptive real-time routing engine for cyclists with dynamically optimised path planning based on live conditions. |
 
 ---
