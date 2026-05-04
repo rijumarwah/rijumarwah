@@ -6,7 +6,7 @@ Previously a GenAI intern at **Ernst & Young**, where I built multi-agent system
 
 ### Research interests
 
-`multi-agent systems` &nbsp; `llm reasoning` &nbsp; `fatigue detection` &nbsp; `agentic workflows` &nbsp; `nlp` &nbsp; `graph-based methods`
+`trustworthy AI` &nbsp; `robust LLMs` &nbsp; `fatigue detection` &nbsp; `reliable LLMs` &nbsp; `nlp` &nbsp; `interpretability`
 
 ---
 
