@@ -1,4 +1,4 @@
-Undergraduate CS researcher at the **IRT Group, University of South Carolina**. My work sits at the intersection of LLM reasoning, agent orchestration, and applied NLP. I care about building systems where the architecture is as deliberate as the model behind it.
+Incoming grad student at University of Tübingen in the machine learning program. I'm a research intern at the **IRT Group, University of South Carolina**. My work sits at the intersection of LLM reasoning, agent orchestration, and applied NLP. I care about building systems where the architecture is as deliberate as the model behind it.
 
 Previously a GenAI intern at **Ernst & Young**, where I built multi-agent systems for automating procurement workflows.
 
